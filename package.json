@@ -1,7 +1,7 @@
 {
   "name": "css-font-style-keywords",
-  "version": "1.0.0",
-  "description": "List of CSS font styles.",
+  "version": "1.0.1",
+  "description": "List of CSS font style keywords.",
   "main": "index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,7 @@
     "css",
     "font",
     "style",
-    "styles"
+    "keywords"
   ],
   "author": "Jed Mao <jedmao@outlook.com>",
   "license": "MIT",
