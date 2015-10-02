@@ -1,4 +1,4 @@
-# css-font-styles
+# css-font-style-keywords
 
 List of CSS [font styles](https://developer.mozilla.org/en-US/docs/Web/CSS/font-style):
 - normal
@@ -8,12 +8,12 @@ List of CSS [font styles](https://developer.mozilla.org/en-US/docs/Web/CSS/font-
 ## Installation
 
 ```
-npm install css-font-styles [--save[-dev]]
+npm install css-font-style-keywords [--save[-dev]]
 ```
 
 ## Usage
 
 ```js
-var cssFontStyles = require('css-font-styles');
-cssFontStyles; // ['normal', 'italic', 'oblique']
+var fontStyleKeywords = require('css-font-style-keywords');
+fontStyleKeywords; // ['normal', 'italic', 'oblique']
 ```
